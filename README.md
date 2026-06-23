@@ -1,4 +1,4 @@
-# Chess (Development)
+# Chess
 
 A chess game written in C using Raylib.
 
